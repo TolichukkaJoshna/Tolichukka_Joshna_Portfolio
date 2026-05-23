@@ -111,11 +111,11 @@ export function Hero() {
             transition={{ delay: 0.9 }}
             className="mt-8 flex items-center gap-4"
           >
-            <a href="https://github.com/" target="_blank" rel="noreferrer"
+            <a href="https://github.com/TolichukkaJoshna" target="_blank" rel="noreferrer"
               className="p-2.5 rounded-full glass hover:text-primary hover:border-primary/50 transition-all">
               <Github size={18} />
             </a>
-            <a href="https://linkedin.com/" target="_blank" rel="noreferrer"
+            <a href="https://www.linkedin.com/in/tolichukka-joshna-b3886b28b/" target="_blank" rel="noreferrer"
               className="p-2.5 rounded-full glass hover:text-primary hover:border-primary/50 transition-all">
               <Linkedin size={18} />
             </a>

@@ -10,7 +10,7 @@ const projects = [
     description:
       "An AI-powered platform that connects like-minded people based on shared skills and interests using intelligent matching logic.",
     stack: ["React.js", "Node.js", "Express.js", "MongoDB"],
-    href: "https://github.com/",
+    href: "https://github.com/TolichukkaJoshna/MindMatch.git",
   },
   {
     icon: Film,
@@ -19,7 +19,7 @@ const projects = [
     description:
       "A Java-based movie ticket booking application that lets users browse movies, select seats, and book tickets efficiently.",
     stack: ["Java"],
-    href: "https://github.com/",
+    href: "https://github.com/TolichukkaJoshna/Movie-Ticket-Booking.git",
   },
 ];
 
