@@ -41,11 +41,11 @@ export function Contact() {
             ))}
           </div>
           <div className="flex gap-3 mt-8">
-            <a href="https://github.com/" target="_blank" rel="noreferrer"
+            <a href="https://github.com/TolichukkaJoshna" target="_blank" rel="noreferrer"
               className="p-3 rounded-xl glass hover:text-primary hover:border-primary/50 transition-all">
               <Github size={18} />
             </a>
-            <a href="https://linkedin.com/" target="_blank" rel="noreferrer"
+            <a href="https://www.linkedin.com/in/tolichukka-joshna-b3886b28b/" target="_blank" rel="noreferrer"
               className="p-3 rounded-xl glass hover:text-primary hover:border-primary/50 transition-all">
               <Linkedin size={18} />
             </a>
